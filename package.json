@@ -1,6 +1,6 @@
 {
-  "name": "@ajimae/sdk-client",
-  "version": "0.1.0-beta",
+  "name": "@commercetools/client-sdk",
+  "version": "0.1.0",
   "description": "commercetools TypeScript SDK client for Platform API",
   "keywords": [
     "commercetools",
@@ -13,7 +13,7 @@
     "auth"
   ],
   "author": "Chukwuemeka Ajima",
-  "homepage": "https://github.com/ajimae/sdk-client",
+  "homepage": "https://github.com/commerce/client-sdk",
   "license": "MIT",
   "main": "dist/index.js",
   "directories": {
@@ -28,10 +28,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ajimae/sdk-client.git"
+    "url": "git+https://github.com/commercetools/commercetools-sdk-typescript.git"
   },
   "bugs": {
-    "url": "https://github.com/ajimae/sdk-client/issues"
+    "url": "https://github.com/commercetools/client-sdk/issues"
   },
   "dependencies": {
     "@commercetools/platform-sdk": "^1.16.0",
