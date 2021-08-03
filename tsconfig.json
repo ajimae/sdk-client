@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "module": "CommonJS",
+    "target": "ES5",
+    "moduleResolution": "node",
+    "removeComments": false,
+    "outDir": "dist",
+    "baseUrl": ".",
+    "esModuleInterop": true
+  },
+  "include": ["./src/**/*"]
+}
